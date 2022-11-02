@@ -1,0 +1,14 @@
+Certain difficulties & temporary solutions
+Since the proposal can still be modified after the peer review & before the final delivery is made - there is no urgent need to change the original research question by too much for now - however there could be potential better alternatives - for the sake of time the current question is being kept
+
+the original chronic kidney disease data cannot be loaded into the notebook directly through web since it is in a .rar file format - I have switched to an alternative dataset which contains the same variables - although they may be less precise as a lot of the quantitative variables are expressed as a range and not specific values. If anyone knows how to load the .rar file directly into R please let me know
+
+The alternative data expresses the level of albumin in a less specific manner since it was originally a chr data type and I had to convert it into numeric values - for this reason it is better to treat it as a relative indicator of how much more / less albumin an observation has and less as an exact value, I will make note of this later in the proposal
+
+The preliminary results actually shows that patients with ckd has a higher albumin level than patients without ckd, for this reason we should probably consider switching the hypothesis to being two-tailed (only investigating whether or not there is a difference)
+
+Patients without ckd are reported to have a mean of 0 albumin, this may be due to the non-specific nature of the alternative data as any value under 1 seems to be generalized as 0. One thing to note is that patients without ckd could be patients which have diseases that affect levels of albumin more directly since this data is collected from patients instead of patients vs healthy people. One of our doubt about the sample could be that the sample containing patients without ckd are by chance containing patients with diseases which directly decrease albumin levels, and our hypothesis test can demonstrate the probabilities of the test statistic occurring in a population where ckd patients has the same level of albumin as non-ckd patients.
+
+Because of this the research question with this dataset may not be the most effective since there are many assumptions being made, whether or not we need to change the original hypothesis to something more straight forward is a decision that needs to be made by the whole group. If you have any insights on the preliminary results or any suggestions and questions regarding the contents of this note, please reach me through the group chat. Thank you!
+
+
