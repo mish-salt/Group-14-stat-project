@@ -9,3 +9,6 @@ For the alternative hypothesis, we can test if H1 : μ (CKD) - μ (not CKD) > 0 
 Based on the preliminary results, we observed that the test statistic (difference of the two means) is greater than 0, so we expect to reject the null hypothesis. 
 We can obtain a 94% confidence interval for the difference between the means of patients with CKD vs patients without CKD using the CLT 
 and assess its accuracy by comparing it to the observed test statistic value
+We find that the patients with chronic kidney disease have lower albumin levels than normal (which is considered 3.4 to 5.4 g/dL) but is still higher than for patients without CKD. 
+Such findings can help a patient or medical practitioners to accurately correlate albumin levels to illnesses and their symptoms, and take subsequent steps to identify and curtail them. 
+The findings of this project may lead to future studies on whether certain diseases, some of which are included in our data set, may lead to lower albumin levels which could potentially have some impact on liver function.
