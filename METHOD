@@ -6,6 +6,6 @@ The plots produced are from a sample which consists of patients having various i
 We can do a hypothesis test on this report. 
 For the null hypothesis, we can test if Ho : μ (CKD)- μ (not CKD) = 0 which applies that sample mean of albumin levels of CKD patients vs non-CKD patients is the same.
 For the alternative hypothesis, we can test if H1 : μ (CKD) - μ (not CKD) > 0 which applies that the albumin levels of CKD patients are higher than that of non- CKD patients.
-
+Based on the preliminary results, we observed that the test statistic (difference of the two means) is greater than 0, so we expect to reject the null hypothesis. 
 We can obtain a 94% confidence interval for the difference between the means of patients with CKD vs patients without CKD using the CLT 
 and assess its accuracy by comparing it to the observed test statistic value
