@@ -3,3 +3,7 @@ The primary question that this report strives to answer is whether it is justifi
 For the preliminary aspect of the proposal, we found out that upon plotting a sample distribution for albumin levels, the mean albumin levels of CKD patients are higher than patients without CKD thereby substantiating our initial question and laying valid grounds for further analysis. 
 We also look at a patient’s appetite as a variable indicative of their albumin levels and see whether the respective sampling distribution corresponds to a patient’s classification of having CKD or not. 
 The plots produced are from a sample which consists of patients having various illnesses, besides CKD, which makes it difficult to generalize statements for the entire sample since certain illnesses could affect albumin levels more compared to others
+
+
+We can obtain a 94% confidence interval for the difference between the means of patients with CKD vs patients without CKD using the CLT 
+and assess its accuracy by comparing it to the observed test statistic value
