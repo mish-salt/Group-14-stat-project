@@ -1,0 +1,18 @@
+- Elaborate on the extra variable (appetite)
+METHODS AND RESULTS:
+(INCLUDE THINGS FROM THE PRELIM. RESULTS)
+- Conduct planned steps (REMEMBER TO SET SEED)
+	- Hypothesis test (Asymptotics & bootstrap)
+	- Confidence interval (bootstrap method?)
+	- Interpretations of these things
+- compare bootstrap & asymtopics for hypothesis test
+- Label any visualizations with a figure / table number
+
+DISCUSSION:
+- Summarize things - implications
+- Discuss if these results were expected
+- Future questions & research topics this could lead to 
+
+OTHERS:
+- Check grammar & spelling
+- Incorporate feedback
