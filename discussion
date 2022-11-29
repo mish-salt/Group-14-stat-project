@@ -1,0 +1,9 @@
+In the preliminary aspect of the proposal, it was indicated that upon plotting a sample distribution for albumin levels, the mean albumin levels of CKD patients are higher than patients without CKD which corroborated our primary question
+To further validate our research, we generated a hypothesis test to compare the difference in mean between CKD/non- CKD patients using bootstrap and CLT methods.We first used bootstrap sampling to generate the hypothesis test using 1000 bootstrap samples and then visualized the null distribution to find the p value. 
+From this approach, the p-value was found to be 0 which is smaller than our indicated significance level (i.e 0.05). 
+The CLT hypothesis test also gave us a p-value equal to 0 which gave substantial evidence for rejecting the null hypothesis in favour of the alternative hypothesis for this research : patients with CKD have higher albumin levels than patients with other potential diseases that are not CKD.
+Consequently, we obtained a 95% confidence interval for both bootstrap and CLT hypothesis to assess the accuracy of our test and on comparing the results, we found that the values are very close in range.
+Therefore, we are certain that this confidence interval captures the true parameter value which is that patients with CKD have higher albumin levels than patients other potential diseases that are not CKD
+Such findings can help a patient or medical practitioners to accurately correlate albumin levels to illnesses and their symptoms, and take subsequent steps to identify and curtail them.
+The findings of this project may lead to future studies on whether certain diseases, some of which are included in our data set, may lead to lower albumin levels which could potentially have some impact on liver function. 
+It may also raise questions as to what are the key characteristics of the illnesses which leads to significantly lower albumin levels and how does CKD differ from these characteristics
